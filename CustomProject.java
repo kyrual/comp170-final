@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-
+/**/
 public class CustomProject {
     public static void main(String[] args) {
         int fight = 0;
